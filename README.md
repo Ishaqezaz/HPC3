@@ -1,10 +1,16 @@
 # HPC3
 
 
+## Exercise 2 - Measure Network Bandwidth and Latency on Dardel with Ping-Pong
+![test1](exercise2/results/intra_node.png "Ping-Pong time vs Size on Intra-node communication ")
+![test2](exercise2/results/inter_node.png "Ping-Pong time vs Size on Inter-node communication")
+
+![test3](exercise4/results/LBWintra.png "Best fit for bandwidth and latency on Intra-node communication")
+![test4](exercise4/results/LBinter.png "Best fit for bandwidth and latency on Inter-node communication")
 
 
-# Exercise 4 - Calculate PI with MPI
-![test1](exercise4/results/ExVsProcess.png "MPI processes vs execution time")
+## Exercise 4 - Calculate PI with MPI
+![test5](exercise4/results/ExVsProcess.png "MPI processes vs execution time")
 
 
 
