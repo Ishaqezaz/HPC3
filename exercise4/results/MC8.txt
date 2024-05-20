@@ -1,0 +1,20 @@
+Estimated Pi: 3.141612
+Time taken: 2.821908 seconds
+Estimated Pi: 3.141612
+Time taken: 2.837708 seconds
+Estimated Pi: 3.141612
+Time taken: 2.840420 seconds
+Estimated Pi: 3.141612
+Time taken: 2.828808 seconds
+Estimated Pi: 3.141612
+Time taken: 2.837012 seconds
+Estimated Pi: 3.141612
+Time taken: 3.115356 seconds
+Estimated Pi: 3.141612
+Time taken: 3.096285 seconds
+Estimated Pi: 3.141612
+Time taken: 3.083778 seconds
+Estimated Pi: 3.141612
+Time taken: 3.208043 seconds
+Estimated Pi: 3.141612
+Time taken: 3.602358 seconds
