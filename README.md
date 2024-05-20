@@ -1,6 +1,6 @@
 # HPC3
 
-![test1](HPC3/exercise2/results/LBWinter.png "test")
+![test1](exercise2/results/LBWinter.png "test")
 
 
 
